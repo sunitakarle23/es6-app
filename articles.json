@@ -1,70 +1,49 @@
 {
-  "articles": [
-    {
-      "id": 1051293780,
-      "title": "Welcome to the world of tomorrow!",
-      "created_at": "2013-11-06T19:00:00-05:00",
-      "body_html": "Good news, everybody!",
-      "blog_id": 241253187,
-      "author": "dennis",
-      "user_id": null,
-      "published_at": null,
-      "updated_at": "2017-09-29T07:33:01-04:00",
-      "summary_html": null,
-      "template_suffix": null,
-      "handle": "welcome-to-the-world-of-tomorrow",
-      "tags": ""
-    },
-    {
-      "id": 989034056,
-      "title": "Some crazy article I'm coming up with",
-      "created_at": "2008-12-31T19:00:00-05:00",
-      "body_html": "I have no idea what to write about, but it's going to rock!",
-      "blog_id": 241253187,
-      "author": "John",
-      "user_id": null,
-      "published_at": null,
-      "updated_at": "2009-01-31T19:00:00-05:00",
-      "summary_html": null,
-      "template_suffix": null,
-      "handle": "some-crazy-article-im-coming-up-with",
-      "tags": "Mystery"
-    },
-    {
-      "id": 294160202,
-      "title": "Just us bots here",
-      "created_at": "2013-11-06T19:00:00-05:00",
-      "body_html": "beep boop",
-      "blog_id": 241253187,
-      "author": "dennis",
-      "user_id": null,
-      "published_at": null,
-      "updated_at": "2017-09-29T07:33:01-04:00",
-      "summary_html": null,
-      "template_suffix": null,
-      "handle": "just-us-bots-here",
-      "tags": ""
-    },
-    {
-      "id": 134645308,
-      "title": "get on the train now",
-      "created_at": "2008-07-31T20:00:00-04:00",
-      "body_html": "<p>Do <em>you<\/em> have an <strong>IPod<\/strong> yet?<\/p>",
-      "blog_id": 241253187,
-      "author": "Dennis",
-      "user_id": 799407056,
-      "published_at": "2008-07-31T20:00:00-04:00",
-      "updated_at": "2008-07-31T20:00:00-04:00",
-      "summary_html": null,
-      "template_suffix": null,
-      "handle": "get-on-the-train-now",
-      "tags": "Announcing",
-      "image": {
-        "created_at": "2017-09-29T07:33:01-04:00",
-        "width": 123,
-        "height": 456,
-        "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0006\/9093\/3842\/articles\/imac.jpg?v=1506684781"
-      }
-    }
-  ]
+"meta": {
+"total_count": 3,
+"count": 3
+},
+"authors": [
+{
+"about": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ullamcorper nulla non metus auctor fringilla. Sed posuere consectetur est at lobortis. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Maecenas faucibus mollis interdum.</p>\n",
+"avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/jsa/128.jpg",
+"firstname": "James",
+"id": 1420,
+"job_title": "Writer",
+"lastname": "Anderson",
+"links": {
+"twitter": "http://twitter.com/jsa"
+},
+"name": "James Anderson",
+"short_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ullamcorper nulla non metus auctor fringilla. Sed posuere consectetur est at lobortis."
+},
+{
+"about": "",
+"avatar": "https://pbs.twimg.com/profile_images/378800000596708958/e75062d76192446ddd7758e34c9e1c6a_400x400.jpeg",
+"firstname": "Peter",
+"id": 1421,
+"job_title": "Designer",
+"lastname": "Party",
+"links": {},
+"name": "Peter Party",
+"short_description": "Designer / Developer at Flockler"
+},
+{
+"about": "<div class=\"profile-pic\">I&rsquo;m a full-stack developer and designer from Finland. I live with my wife whom I married in New York City. I love crafting products that help get things&nbsp;done.</div>\n\n<div class=\"about-me\">\n<p>I&rsquo;ve worked at a successful product startup, in aUX&nbsp;team consulting for the biggest and smallest clients in Finland, failed a consumer iPhone app and set up sales terminals into Africa and Australia (remotely, sadly). I&nbsp;actively&nbsp;<a href=\"https://github.com/Darep\">contribute to the&nbsp;OSS&nbsp;community</a>. I also&nbsp;<a href=\"mailto:ajk@ajk.fi\">freelance</a>&nbsp;via my own company whenever a cool opportunity presents&nbsp;itself.</p>\n\n<p>In design, be it&nbsp;UX&nbsp;design or software architecture design, I feel that empathy is key. Empowering your users while making sure the user feels good are the goals I aim&nbsp;for.</p>\n\n<p>In software development, my empathy-oriented philosophy means that I specialise in creating products that are easy to use, easy to maintain and easy to develop further. This is my passion; I want to create code, architecture and frameworks that empower users and other developers and give them that amazing feeling of &ldquo;wow, that&rsquo;s so simple, this system is&nbsp;beautiful&rdquo;.</p>\n\n<p>I&rsquo;m also a skilled graphic designer (though I do that less and less these&nbsp;days).</p>\n</div>\n",
+"avatar": "https://flockler.com/files/sites/609/e9faac3b52d792d37943c60d62e4156f.jpeg",
+"firstname": "AJ",
+"id": 1422,
+"job_title": "Designineer",
+"lastname": "Hardwick",
+"links": {
+"email": "ajk@ajk.fi",
+"github": "http://github.com/Darep",
+"instagram": "http://instagram.com/darep",
+"twitter": "http://www.twitter.com/darep",
+"youtube": "https://www.youtube.com/user/darep/videos"
+},
+"name": "AJ Hardwick",
+"short_description": "My name is Antti-Jussi Kovalainen (or ajk for short). I’m currently working for Flockler as a startup polymath, and also finishing my studies at Tampere University of Technology."
+}
+]
 }
